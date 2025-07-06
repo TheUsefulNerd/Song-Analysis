@@ -1,4 +1,3 @@
-ChatGPT said:
 # 🎶 Song Popularity Prediction
 
 A complete end-to-end data science project focused on understanding the patterns behind a song’s popularity using real-world audio and platform-level data — and building a predictive model to estimate Spotify stream counts.
