@@ -21,7 +21,7 @@ def display_insight(image_filename, caption, insight_text, img_width=700):
     image.thumbnail((img_width, img_width))
     
     st.markdown(f"### 🔍 {caption}")
-    st.image(image, use_column_width=False)
+    st.image(image, use_container_width=False)
     with st.expander("📝 Insight", expanded=True):
         st.markdown(insight_text)
     st.markdown("---")
