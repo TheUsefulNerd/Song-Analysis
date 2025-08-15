@@ -107,7 +107,7 @@ This will launch the interactive dashboard in your browser.
 ## ✨ Author
 
 **Advait Joshi**  
-Research Intern @UofSC(AIISC), IIT Patna, IIT Kanpur | Blockchain Developer Intern @Inspiring Wave | Contributor @GSSoC-2024-extd | SVIT CSE(DS) 2027   
+AI Engineer Intern @DRDO | Research Intern @APPCAIR, IIT Kanpur, IIT Patna | Blockchain Developer Intern @Inspiring Wave | SVIT CSE(DS) '2027   
 [LinkedIn](https:/www.linkedin.com/in/advaitszone)
 
 ---

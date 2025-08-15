@@ -25,7 +25,7 @@ with st.container():
     st.markdown("### 👤 Author")
     st.markdown("""
     - **Name:** Advait Joshi  
-    - **Bio:** Research Intern @UofSC(AIISC), IIT Patna, IIT Kanpur | Blockchain Developer Intern @Inspiring Wave | Contributor @GSSoC-2024-extd | SVIT CSE(DS) 2027  
+    - **Bio:** AI Engineer Intern @DRDO | Research Intern @APPCAIR, IIT Kanpur, IIT Patna | Blockchain Developer Intern @Inspiring Wave | SVIT CSE(DS) '2027  
     - **Linkedin:** [Advait Joshi](https:/www.linkedin.com/in/advaitszone)  
     - **Project Goal:** Showcase complete data science workflow from analysis to deployment.
     """)
