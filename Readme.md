@@ -3,6 +3,8 @@
 A complete end-to-end data science project focused on understanding the patterns behind a song’s popularity using real-world audio and platform-level data — and building a predictive model to estimate Spotify stream counts.
 
 ---
+### Live Link: [https://song-analysis-data-science-project.streamlit.app/]
+---
 
 ## 📁 Project Structure
 
@@ -107,7 +109,7 @@ This will launch the interactive dashboard in your browser.
 ## ✨ Author
 
 **Advait Joshi**  
-AI Engineer Intern @DRDO | Research Intern @APPCAIR, IIT Kanpur, IIT Patna | Blockchain Developer Intern @Inspiring Wave | SVIT CSE(DS) '2027   
+AI Engineer Intern @DRDO | Research Intern @IIT Kanpur, IIT Patna | Blockchain Developer Intern @Inspiring Wave | SVIT CSE(DS) '2027   
 [LinkedIn](https:/www.linkedin.com/in/advaitszone)
 
 ---
